@@ -13,6 +13,10 @@
               <key long="174" />
               <value long="111" />
             </entry>
+            <entry>
+              <key long="180" />
+              <value long="3" />
+            </entry>
           </map>
         </value>
       </entry>
@@ -27,6 +31,10 @@
             <entry>
               <key long="174" />
               <value long="111" />
+            </entry>
+            <entry>
+              <key long="180" />
+              <value long="3" />
             </entry>
           </map>
         </value>
