@@ -1,0 +1,134 @@
+<keymap version="1" name="Stan" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/backward">
+    <keyboard-shortcut first-keystroke="alt LEFT" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-backwards">
+    <keyboard-shortcut first-keystroke="control meta RIGHT" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id=":cursive.actions.paredit/close-curly-and-newline">
+    <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
+  </action>
+  <action id=":cursive.actions.paredit/close-paren-and-newline">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
+  <action id=":cursive.actions.paredit/close-square-and-newline">
+    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+  </action>
+  <action id=":cursive.actions.paredit/copy-as-kill">
+    <keyboard-shortcut first-keystroke="shift control K" />
+  </action>
+  <action id=":cursive.actions.paredit/forward">
+    <keyboard-shortcut first-keystroke="alt RIGHT" />
+  </action>
+  <action id=":cursive.actions.paredit/join">
+    <keyboard-shortcut first-keystroke="control meta S" />
+  </action>
+  <action id=":cursive.actions.paredit/kill">
+    <keyboard-shortcut first-keystroke="control K" />
+  </action>
+  <action id=":cursive.actions.paredit/kill-sexp">
+    <keyboard-shortcut first-keystroke="control alt K" />
+  </action>
+  <action id=":cursive.actions.paredit/move-form-down">
+    <keyboard-shortcut first-keystroke="shift meta DOWN" />
+  </action>
+  <action id=":cursive.actions.paredit/move-form-up">
+    <keyboard-shortcut first-keystroke="shift meta UP" />
+  </action>
+  <action id=":cursive.actions.paredit/raise">
+    <keyboard-shortcut first-keystroke="meta QUOTE" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="control meta LEFT" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id=":cursive.actions.paredit/splice">
+    <keyboard-shortcut first-keystroke="alt S" />
+  </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="shift alt S" />
+  </action>
+  <action id=":cursive.actions.paredit/thread-form">
+    <keyboard-shortcut first-keystroke="meta alt COMMA" />
+  </action>
+  <action id=":cursive.actions.paredit/unthread-form">
+    <keyboard-shortcut first-keystroke="meta alt PERIOD" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-curly">
+    <keyboard-shortcut first-keystroke="shift meta OPEN_BRACKET" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-paren">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-quotes">
+    <keyboard-shortcut first-keystroke="shift meta QUOTE" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-square">
+    <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
+  </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="shift meta L" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="shift meta P" />
+  </action>
+  <action id=":cursive.repl.actions/search-history">
+    <keyboard-shortcut first-keystroke="meta alt E" />
+  </action>
+  <action id=":cursive.repl.actions/switch-namespace">
+    <keyboard-shortcut first-keystroke="shift meta S" />
+  </action>
+  <action id=":cursive.repl.actions/sync-files">
+    <keyboard-shortcut first-keystroke="shift meta M" />
+  </action>
+  <action id=":cursive.testing.actions/remove-test-markers">
+    <keyboard-shortcut first-keystroke="shift meta BACK_SPACE" />
+  </action>
+  <action id="ActivateChangesToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateREPLToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="BuildArtifact">
+    <keyboard-shortcut first-keystroke="meta alt A" />
+  </action>
+  <action id="ChangesView.AddUnversioned" />
+  <action id="Git.Add" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="F9" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift meta 3" />
+  </action>
+</keymap>
