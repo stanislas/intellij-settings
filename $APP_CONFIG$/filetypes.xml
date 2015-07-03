@@ -1,0 +1,34 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="crsh" type="Bash" />
+      <mapping pattern="logman" type="Bash" />
+      <mapping pattern="args" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="customer" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="args2" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="01-" type="PLAIN_TEXT" />
+      <mapping ext="rd" type="PLAIN_TEXT" />
+      <mapping ext="td" type="PLAIN_TEXT" />
+      <mapping ext="bnd" type="Properties" />
+      <mapping ext="prc" type="SQL" />
+      <mapping ext="pkb" type="SQL" />
+      <mapping ext="type" type="SQL" />
+      <mapping ext="pks" type="SQL" />
+      <mapping ext="fnc" type="SQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+    </extensionMap>
+  </component>
+</application>
