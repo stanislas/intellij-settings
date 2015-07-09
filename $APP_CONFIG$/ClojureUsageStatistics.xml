@@ -9,6 +9,10 @@
               <key long="188" />
               <value long="1" />
             </entry>
+            <entry>
+              <key long="190" />
+              <value long="2" />
+            </entry>
           </map>
         </value>
       </entry>
@@ -18,6 +22,10 @@
           <map>
             <entry>
               <key long="188" />
+              <value long="1" />
+            </entry>
+            <entry>
+              <key long="190" />
               <value long="1" />
             </entry>
           </map>
@@ -31,6 +39,10 @@
               <key long="188" />
               <value long="1" />
             </entry>
+            <entry>
+              <key long="190" />
+              <value long="2" />
+            </entry>
           </map>
         </value>
       </entry>
@@ -41,6 +53,21 @@
             <entry>
               <key long="188" />
               <value long="1" />
+            </entry>
+            <entry>
+              <key long="190" />
+              <value long="1" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="project-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="190" />
+              <value long="3" />
             </entry>
           </map>
         </value>
