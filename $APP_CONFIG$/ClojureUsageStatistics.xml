@@ -6,6 +6,10 @@
         <value>
           <map>
             <entry>
+              <key long="204" />
+              <value long="1" />
+            </entry>
+            <entry>
               <key long="201" />
               <value long="3" />
             </entry>
@@ -20,6 +24,10 @@
         <key keyword="clj-file-opened" />
         <value>
           <map>
+            <entry>
+              <key long="204" />
+              <value long="1" />
+            </entry>
             <entry>
               <key long="201" />
               <value long="3" />
