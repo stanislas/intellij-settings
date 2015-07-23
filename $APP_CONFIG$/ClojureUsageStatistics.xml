@@ -2,12 +2,23 @@
   <component name="ClojureUsageStatistics">
     <map>
       <entry>
+        <key keyword="other-file-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="204" />
+              <value long="2" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
         <key keyword="clj-file-selected" />
         <value>
           <map>
             <entry>
               <key long="204" />
-              <value long="16" />
+              <value long="41" />
             </entry>
             <entry>
               <key long="201" />
@@ -21,12 +32,23 @@
         </value>
       </entry>
       <entry>
+        <key keyword="other-file-selected" />
+        <value>
+          <map>
+            <entry>
+              <key long="204" />
+              <value long="2" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
         <key keyword="clj-file-opened" />
         <value>
           <map>
             <entry>
               <key long="204" />
-              <value long="16" />
+              <value long="41" />
             </entry>
             <entry>
               <key long="201" />
