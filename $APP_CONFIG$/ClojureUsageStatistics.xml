@@ -17,6 +17,10 @@
         <value>
           <map>
             <entry>
+              <key long="205" />
+              <value long="1" />
+            </entry>
+            <entry>
               <key long="204" />
               <value long="69" />
             </entry>
@@ -46,6 +50,10 @@
         <key keyword="clj-file-opened" />
         <value>
           <map>
+            <entry>
+              <key long="205" />
+              <value long="1" />
+            </entry>
             <entry>
               <key long="204" />
               <value long="69" />
