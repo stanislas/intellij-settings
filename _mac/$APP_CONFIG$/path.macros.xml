@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="GRADLE_HOME" value="/usr/local/Cellar/gradle/2.5/libexec" />
+    <macro name="GRADLE_HOME" value="/Users/nanchen/.gradle" />
     <macro name="MAVEN_REPOSITORY" value="/Users/nanchen/.m2/repository" />
   </component>
 </application>
