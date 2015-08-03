@@ -1,0 +1,65 @@
+<scheme name="Stan" version="141" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="CONSOLE_FONT_NAME" value="PragmataPro" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="PragmataPro" />
+  <attributes>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="5000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 1 (outermost)">
+      <value>
+        <option name="FOREGROUND" value="ff2000" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 2">
+      <value>
+        <option name="FOREGROUND" value="ff4000" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 3">
+      <value>
+        <option name="FOREGROUND" value="ff5600" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 4">
+      <value>
+        <option name="FOREGROUND" value="ff6000" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 5">
+      <value>
+        <option name="FOREGROUND" value="ffa000" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 6">
+      <value>
+        <option name="FOREGROUND" value="ffba00" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 7">
+      <value>
+        <option name="FOREGROUND" value="7ae627" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 8">
+      <value>
+        <option name="FOREGROUND" value="29e629" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 9">
+      <value>
+        <option name="FOREGROUND" value="29e668" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="BACKGROUND" value="f5f5f5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

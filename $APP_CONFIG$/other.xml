@@ -37,6 +37,7 @@
         <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="80" />
         <SqlCodeStyleSettings>
           <option name="KEYWORD_CASE" value="2" />
+          <option name="IDENTIFIER_CASE" value="1" />
         </SqlCodeStyleSettings>
         <XML>
           <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -46,11 +47,6 @@
             <option name="CONTINUATION_INDENT_SIZE" value="4" />
             <option name="USE_TAB_CHARACTER" value="true" />
             <option name="SMART_TABS" value="true" />
-          </indentOptions>
-        </codeStyleSettings>
-        <codeStyleSettings language="Clojure">
-          <indentOptions>
-            <option name="USE_TAB_CHARACTER" value="true" />
           </indentOptions>
         </codeStyleSettings>
         <codeStyleSettings language="Groovy">
@@ -71,6 +67,7 @@
           <indentOptions>
             <option name="CONTINUATION_INDENT_SIZE" value="4" />
             <option name="USE_TAB_CHARACTER" value="true" />
+            <option name="SMART_TABS" value="true" />
           </indentOptions>
         </codeStyleSettings>
         <codeStyleSettings language="JSON">
@@ -110,7 +107,7 @@
         </codeStyleSettings>
       </value>
     </option>
-    <option name="PREFERRED_PROJECT_CODE_STYLE" value="stan" />
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="CoopMWS" />
   </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
