@@ -36,6 +36,7 @@
     <driver id="oracle" name="Oracle" dialect="Oracle">
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
+      <property name="autoCommit" value="false" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
       </library>
@@ -132,6 +133,16 @@
       <option name="auto-sync" value="true" />
       <driver id="sqlite.xerial" name="Xerial" />
       <driver id="sqlite.zentus" name="Zentus" />
+    </driver>
+    <driver id="java.sql.Driver" name="Oracle 12c" dialect="Oracle" instantiable="true" driver-class="oracle.jdbc.OracleDriver" default-port="1521">
+      <url-template>jdbc:oracle:thin:@//{host}[:{port}][/{database}]</url-template>
+      <option name="auth-supported" value="true" />
+      <option name="local" value="false" />
+      <option name="auto-commit" value="false" />
+      <option name="auto-sync" value="false" />
+      <library>
+        <url>file://$USER_HOME$/engineering/database/elmnt-datalog/lib/ojdbc7.jar</url>
+      </library>
     </driver>
   </component>
 </application>
