@@ -14,8 +14,14 @@
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift meta L" />
   </action>
+  <action id="ActivateChangesToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateREPLToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="EmmetNextEditPoint" />
