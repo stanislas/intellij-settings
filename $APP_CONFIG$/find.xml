@@ -1,11 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -16,8 +18,8 @@
       <mask>*.properties</mask>
       <mask>*.java</mask>
       <mask>MANIFEST.MF</mask>
-      <mask>*.xml</mask>
       <mask>*.gradle</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
