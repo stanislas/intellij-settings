@@ -15,6 +15,7 @@
       <mapping ext="create_extra" type="PLAIN_TEXT" />
       <mapping ext="td" type="PLAIN_TEXT" />
       <mapping ext="vd" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
       <mapping ext="prc" type="SQL" />
       <mapping ext="view" type="SQL" />
