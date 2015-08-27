@@ -5,6 +5,9 @@
   <action id=":cursive.actions.paredit/barf-forwards">
     <keyboard-shortcut first-keystroke="control alt RIGHT" />
   </action>
+  <action id=":cursive.actions.paredit/join">
+    <keyboard-shortcut first-keystroke="control meta UP" />
+  </action>
   <action id=":cursive.actions.paredit/slurp-backwards">
     <keyboard-shortcut first-keystroke="control meta RIGHT" />
   </action>
