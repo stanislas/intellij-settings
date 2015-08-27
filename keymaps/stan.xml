@@ -11,8 +11,17 @@
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="control alt LEFT" />
   </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="control meta DOWN" />
+  </action>
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift meta L" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="shift meta P" />
+  </action>
+  <action id=":cursive.repl.actions/switch-namespace">
+    <keyboard-shortcut first-keystroke="shift meta S" />
   </action>
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
