@@ -16,39 +16,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="Rainbow Parens Level 1 (outermost)">
-      <value>
-        <option name="FOREGROUND" value="ff2000" />
-      </value>
-    </option>
-    <option name="Rainbow Parens Level 2">
-      <value>
-        <option name="FOREGROUND" value="ff4000" />
-      </value>
-    </option>
-    <option name="Rainbow Parens Level 3">
-      <value>
-        <option name="FOREGROUND" value="ff5600" />
-      </value>
-    </option>
-    <option name="Rainbow Parens Level 4">
-      <value>
-        <option name="FOREGROUND" value="ff6000" />
-      </value>
-    </option>
-    <option name="Rainbow Parens Level 5">
-      <value>
-        <option name="FOREGROUND" value="ffa000" />
-      </value>
-    </option>
-    <option name="Rainbow Parens Level 6">
-      <value>
-        <option name="FOREGROUND" value="ffba00" />
-      </value>
-    </option>
     <option name="Rainbow Parens Level 7">
       <value>
-        <option name="FOREGROUND" value="7ae627" />
+        <option name="FOREGROUND" value="ff33cc" />
       </value>
     </option>
     <option name="Rainbow Parens Level 8">

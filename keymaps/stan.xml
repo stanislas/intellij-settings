@@ -80,6 +80,9 @@
   <action id=":cursive.repl.actions/search-history">
     <keyboard-shortcut first-keystroke="meta alt E" />
   </action>
+  <action id=":cursive.repl.actions/switch-namespace">
+    <keyboard-shortcut first-keystroke="meta alt S" />
+  </action>
   <action id=":cursive.repl.actions/sync-files">
     <keyboard-shortcut first-keystroke="shift meta M" />
   </action>
