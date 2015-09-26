@@ -27,6 +27,7 @@
         <option name="modificationStamps">
           <map>
             <entry key="$USER_HOME$/engineering/experiments/eclipselinkexp" value="2886525654000" />
+            <entry key="$USER_HOME$/knowledge/zb/db-basic-part-2/db-basic-part-2" value="2886546818000" />
             <entry key="$USER_HOME$/projects/allegro/datasource" value="1441286952000" />
             <entry key="$USER_HOME$/projects/allegro/gradle-plugins" value="7196022335000" />
             <entry key="$USER_HOME$/projects/basicmon" value="2884821230000" />
@@ -78,7 +79,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
