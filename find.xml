@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.fcond" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -18,6 +19,8 @@
       <mask>*.xml</mask>
       <mask>*.gradle</mask>
       <mask>*.create</mask>
+      <mask>*.td</mask>
+      <mask>*.fcond</mask>
     </recentFileMasks>
   </component>
 </application>
