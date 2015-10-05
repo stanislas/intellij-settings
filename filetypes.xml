@@ -19,8 +19,8 @@
       <mapping ext="prc" type="SQL" />
       <mapping ext="view" type="SQL" />
       <mapping ext="pkb" type="SQL" />
-      <mapping ext="type" type="SQL" />
       <mapping ext="pks" type="SQL" />
+      <mapping ext="type" type="SQL" />
       <mapping ext="fnc" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
