@@ -24,7 +24,8 @@
     </value>
   </option>
   <SqlCodeStyleSettings>
-    <option name="KEYWORD_CASE" value="2" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />

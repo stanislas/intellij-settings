@@ -3,11 +3,9 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.fcond" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -18,11 +16,11 @@
       <mask>*.properties</mask>
       <mask>*.java</mask>
       <mask>MANIFEST.MF</mask>
-      <mask>*.gradle</mask>
-      <mask>*.fcond</mask>
-      <mask>*type*</mask>
-      <mask>*.td</mask>
       <mask>*.xml</mask>
+      <mask>*.gradle</mask>
+      <mask>*.create</mask>
+      <mask>*.td</mask>
+      <mask>*.fcond</mask>
     </recentFileMasks>
   </component>
 </application>
