@@ -131,4 +131,10 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift meta 3" />
   </action>
+  <action id="latex.align_center" />
+  <action id="latex.align_left" />
+  <action id="latex.align_right" />
+  <action id="latex.bold" />
+  <action id="latex.italic" />
+  <action id="latex.underline" />
 </keymap>
