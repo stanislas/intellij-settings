@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -19,10 +20,10 @@
       <mask>MANIFEST.MF</mask>
       <mask>*.create</mask>
       <mask>*.fcond</mask>
-      <mask>*.gradle</mask>
       <mask>*.xml</mask>
       <mask>*.td</mask>
       <mask>*.vd</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
