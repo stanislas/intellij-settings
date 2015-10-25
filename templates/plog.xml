@@ -1,6 +1,6 @@
 <templateSet group="plog">
   <template name="plog" value="# $TIME$ $SUBJECT$&#10;{:tags [$TAGS$]}" description="Personal Log new entry" toReformat="false" toShortenFQNames="true">
-    <variable name="TIME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="date(&quot;yyyy-MM-dd HH:mm&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="SUBJECT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TAGS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -45,9 +45,9 @@
     </context>
   </template>
   <template name="plink" value="# $TIME$ $TITLE$&#10;{:tags [$TAGS$]}&#10;&#10;{:url $URL$&#10; :title $TITLE$&#10; :description $DESCRIPTION$&#10; :tags [$TAGS$]}" description="personal log with link" toReformat="false" toShortenFQNames="true">
-    <variable name="TIME" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
-    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="TAGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="date(&quot;yyyy-MM-dd HH:mm&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="TAGS" expression="" defaultValue="" alwaysStopAt="false" />
     <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
