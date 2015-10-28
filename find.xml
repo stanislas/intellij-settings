@@ -19,10 +19,10 @@
       <mask>MANIFEST.MF</mask>
       <mask>*.create</mask>
       <mask>*.fcond</mask>
-      <mask>*.xml</mask>
       <mask>*.td</mask>
       <mask>*.vd</mask>
       <mask>*.gradle</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
