@@ -1,7 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="GRADLE_HOME" value="/Users/stan/.gradle" />
-    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA 15.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="GRADLE_HOME" value="/Users/nanchen/.gradle" />
     <macro name="MAVEN_REPOSITORY" value="/Users/stan/.m2/repository" />
   </component>
 </application>
