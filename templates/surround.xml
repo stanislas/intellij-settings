@@ -1,8 +1,0 @@
-<templateSet group="surround">
-  <template name="format" value="String.format($SELECTION$)" description="String.format" toReformat="false" toShortenFQNames="true" useStaticImport="true">
-    <context>
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_STRING" value="true" />
-    </context>
-  </template>
-</templateSet>
