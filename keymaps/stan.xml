@@ -99,6 +99,12 @@
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="Console.Jdbc.ExplainPlan">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="Console.Jdbc.ExplainPlan.Raw">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="SwitchApply">
