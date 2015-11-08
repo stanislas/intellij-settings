@@ -1,5 +1,7 @@
 <application>
   <component name="DatabaseSettings">
+    <option name="execute-inside-option" value="3" />
+    <option name="execute-selection-option" value="1" />
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="?\d+" />
