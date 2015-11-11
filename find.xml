@@ -25,6 +25,7 @@
       <mask>*.gradle</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.view</mask>
     </recentFileMasks>
   </component>
 </application>
