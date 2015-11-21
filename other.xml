@@ -204,6 +204,10 @@
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="PropertiesSeparatorManager">
     <file url="file://$USER_HOME$/projects/bossard.arims/repository/server/ch.bossard.arims.business.api/src/main/resources/translations/translations.properties" separator="\u002e" />
