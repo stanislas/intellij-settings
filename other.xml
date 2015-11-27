@@ -209,6 +209,12 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="PropertiesSeparatorManager">
     <file url="file://$USER_HOME$/projects/bossard.arims/repository/server/ch.bossard.arims.business.api/src/main/resources/translations/translations.properties" separator="\u002e" />
     <file url="file://$USER_HOME$/projects/bossard.arims/repository/server/ch.bossard.arims.business.api/src/main/resources/translations/translations_de.properties" separator="\u002e" />
