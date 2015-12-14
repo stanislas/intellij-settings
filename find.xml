@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.td" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -15,13 +14,13 @@
       <mask>*.properties</mask>
       <mask>MANIFEST.MF</mask>
       <mask>*.create</mask>
-      <mask>*.fcond</mask>
-      <mask>*.td</mask>
       <mask>*.vd</mask>
       <mask>*.xml</mask>
       <mask>*.view</mask>
       <mask>*.java</mask>
       <mask>*.gradle</mask>
+      <mask>*.fcond</mask>
+      <mask>*.td</mask>
     </recentFileMasks>
   </component>
 </application>
