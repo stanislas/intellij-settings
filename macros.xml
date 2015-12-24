@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="asht">
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-    </macro>
-  </component>
-</application>
