@@ -1,0 +1,82 @@
+<application>
+  <component name="ClojureUsageStatistics">
+    <map>
+      <entry>
+        <key keyword="other-file-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="204" />
+              <value long="2" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="clj-file-selected" />
+        <value>
+          <map>
+            <entry>
+              <key long="205" />
+              <value long="2" />
+            </entry>
+            <entry>
+              <key long="206" />
+              <value long="38" />
+            </entry>
+            <entry>
+              <key long="204" />
+              <value long="69" />
+            </entry>
+            <entry>
+              <key long="201" />
+              <value long="3" />
+            </entry>
+            <entry>
+              <key long="202" />
+              <value long="31" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="other-file-selected" />
+        <value>
+          <map>
+            <entry>
+              <key long="204" />
+              <value long="2" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+      <entry>
+        <key keyword="clj-file-opened" />
+        <value>
+          <map>
+            <entry>
+              <key long="205" />
+              <value long="2" />
+            </entry>
+            <entry>
+              <key long="206" />
+              <value long="38" />
+            </entry>
+            <entry>
+              <key long="204" />
+              <value long="69" />
+            </entry>
+            <entry>
+              <key long="201" />
+              <value long="3" />
+            </entry>
+            <entry>
+              <key long="202" />
+              <value long="31" />
+            </entry>
+          </map>
+        </value>
+      </entry>
+    </map>
+  </component>
+</application>
