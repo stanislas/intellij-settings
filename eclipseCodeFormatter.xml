@@ -4,8 +4,11 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
+          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1438597722185" />
           <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/projects/posting/posting-engine/project/config/eclipse/formatter.xml" />
+          <option name="selectedJavaProfile" value="silvanv" />
         </Settings>
         <Settings>
           <option name="formatter" value="ECLIPSE" />
