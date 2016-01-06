@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping ext="boot" type="Clojure" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
-      <mapping pattern="args" type="PLAIN_TEXT" />
       <mapping pattern="01-" type="PLAIN_TEXT" />
+      <mapping pattern="args" type="PLAIN_TEXT" />
       <mapping pattern="customer" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
