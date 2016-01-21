@@ -11,6 +11,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="vd" type="PLAIN_TEXT" />
       <mapping ext="create_extra" type="PLAIN_TEXT" />
       <mapping ext="td" type="PLAIN_TEXT" />
