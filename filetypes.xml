@@ -10,6 +10,7 @@
       <mapping pattern="01-" type="PLAIN_TEXT" />
       <mapping pattern="customer" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="version-env" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
