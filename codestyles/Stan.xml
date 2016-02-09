@@ -23,6 +23,9 @@
       <package name="java" withSubpackages="true" static="false" />
     </value>
   </option>
+  <ClojureCodeStyleSettings>{
+  :cursive.formatting/imports-use-vectors true
+}</ClojureCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="KEYWORD_CASE" value="1" />
     <option name="IDENTIFIER_CASE" value="1" />
