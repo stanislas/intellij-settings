@@ -2,32 +2,30 @@
   <component name="FileTypeManager" version="16">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="logman" type="Bash" />
       <mapping pattern="crsh" type="Bash" />
+      <mapping pattern="logman" type="Bash" />
       <mapping ext="boot" type="Clojure" />
-      <mapping pattern=".boot-env" type="EDN" />
-      <mapping pattern=".lein-env" type="EDN" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="args" type="PLAIN_TEXT" />
-      <mapping pattern="customer" type="PLAIN_TEXT" />
-      <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="01-" type="PLAIN_TEXT" />
+      <mapping pattern="args" type="PLAIN_TEXT" />
+      <mapping pattern="args2" type="PLAIN_TEXT" />
+      <mapping pattern=".lein-env" type="PLAIN_TEXT" />
+      <mapping pattern="customer" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="version-env" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
-      <mapping ext="td" type="PLAIN_TEXT" />
+      <mapping pattern="version-env" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="rd" type="PLAIN_TEXT" />
-      <mapping ext="create_extra" type="PLAIN_TEXT" />
       <mapping ext="vd" type="PLAIN_TEXT" />
+      <mapping ext="create_extra" type="PLAIN_TEXT" />
+      <mapping ext="td" type="PLAIN_TEXT" />
+      <mapping ext="rd" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
       <mapping ext="pks" type="SQL" />
-      <mapping ext="prc" type="SQL" />
-      <mapping ext="view" type="SQL" />
       <mapping ext="fnc" type="SQL" />
       <mapping ext="type" type="SQL" />
       <mapping ext="pkb" type="SQL" />
+      <mapping ext="prc" type="SQL" />
+      <mapping ext="view" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
