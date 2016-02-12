@@ -12,6 +12,7 @@
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="version-env" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
