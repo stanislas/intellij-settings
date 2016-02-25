@@ -89,6 +89,15 @@
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
   </action>
+  <action id=":cursive.testing.actions/rerun-last-test">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
@@ -107,12 +116,15 @@
   </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift meta 2" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
+  <action id="SurroundWith" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -131,4 +143,5 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift meta 3" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
