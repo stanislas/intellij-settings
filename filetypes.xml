@@ -5,6 +5,7 @@
       <mapping pattern="logman" type="Bash" />
       <mapping pattern="uninstall" type="Bash" />
       <mapping pattern="crsh" type="Bash" />
+      <mapping pattern="datomic_less" type="Bash" />
       <mapping ext="boot" type="Clojure" />
       <mapping pattern="args" type="PLAIN_TEXT" />
       <mapping pattern=".lein-env" type="PLAIN_TEXT" />
