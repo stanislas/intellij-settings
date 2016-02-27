@@ -20,10 +20,12 @@
       <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="vd" type="PLAIN_TEXT" />
       <mapping ext="create_extra" type="PLAIN_TEXT" />
       <mapping ext="td" type="PLAIN_TEXT" />
       <mapping ext="lc" type="PLAIN_TEXT" />
+      <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
       <mapping ext="pks" type="SQL" />
