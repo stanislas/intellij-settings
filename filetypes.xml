@@ -6,6 +6,7 @@
       <mapping pattern="uninstall" type="Bash" />
       <mapping pattern="generate_config" type="Bash" />
       <mapping pattern="start" type="Bash" />
+      <mapping pattern="run" type="Bash" />
       <mapping pattern="crsh" type="Bash" />
       <mapping pattern="datomic_less" type="Bash" />
       <mapping ext="boot" type="Clojure" />
@@ -19,6 +20,7 @@
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="vd" type="PLAIN_TEXT" />
