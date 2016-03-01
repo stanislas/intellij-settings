@@ -8,6 +8,7 @@
       <mapping pattern="generate_config" type="Bash" />
       <mapping pattern="datomic_less" type="Bash" />
       <mapping pattern="start" type="Bash" />
+      <mapping pattern="run" type="C#" />
       <mapping ext="boot" type="Clojure" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
