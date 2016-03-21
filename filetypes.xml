@@ -3,26 +3,25 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="logman" type="Bash" />
+      <mapping pattern="generate_config" type="Bash" />
+      <mapping pattern="start" type="Bash" />
+      <mapping pattern="datomic_less" type="Bash" />
       <mapping pattern="crsh" type="Bash" />
       <mapping pattern="uninstall" type="Bash" />
-      <mapping pattern="generate_config" type="Bash" />
       <mapping pattern="install-datomic" type="Bash" />
-      <mapping pattern="datomic_less" type="Bash" />
-      <mapping pattern="start" type="Bash" />
       <mapping pattern="run" type="C#" />
       <mapping ext="boot" type="Clojure" />
-      <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
-      <mapping pattern="version-env" type="PLAIN_TEXT" />
-      <mapping pattern="customer" type="PLAIN_TEXT" />
-      <mapping pattern="args2" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern=".lein-env" type="PLAIN_TEXT" />
       <mapping pattern="01-" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="envirnoment" type="PLAIN_TEXT" />
       <mapping pattern="args" type="PLAIN_TEXT" />
+      <mapping pattern=".lein-env" type="PLAIN_TEXT" />
+      <mapping pattern="customer" type="PLAIN_TEXT" />
+      <mapping pattern="version-env" type="PLAIN_TEXT" />
       <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="args2" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="vd" type="PLAIN_TEXT" />
