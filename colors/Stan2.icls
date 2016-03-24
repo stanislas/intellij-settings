@@ -2,4 +2,11 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro" />
+  <attributes>
+    <option name="Clojure Keyword">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
