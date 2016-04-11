@@ -24,6 +24,7 @@
     </value>
   </option>
   <ClojureCodeStyleSettings>{
+  :ch.deepimpact.tamara.api.ctx/def-res-fn 2
   :cursive.formatting/align-binding-forms true
 }</ClojureCodeStyleSettings>
   <SqlCodeStyleSettings>
