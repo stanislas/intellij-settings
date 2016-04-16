@@ -25,6 +25,7 @@
   </option>
   <ClojureCodeStyleSettings>{
   :ch.deepimpact.tamara.api.ctx/def-res-fn 2
+  :ch.deepimpact.tamara.domain.repository-support/when-let-valid-search-string 2
   :cursive.formatting/align-binding-forms true
   :cursive.formatting/imports-use-vectors true
 }</ClojureCodeStyleSettings>
