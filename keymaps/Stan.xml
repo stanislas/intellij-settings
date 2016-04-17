@@ -6,7 +6,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id=":cursive.actions.paredit/barf-forwards">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id=":cursive.actions.paredit/close-curly-and-newline">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -45,7 +45,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
   <action id=":cursive.actions.paredit/slurp-forwards">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id=":cursive.actions.paredit/splice">
     <keyboard-shortcut first-keystroke="alt s" />
