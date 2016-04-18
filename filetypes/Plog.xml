@@ -12,7 +12,4 @@
     </options>
     <keywords keywords="#" ignore_case="false" />
   </highlighting>
-  <extensionMap>
-    <mapping ext="plog" />
-  </extensionMap>
 </filetype>
