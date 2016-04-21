@@ -89,6 +89,15 @@
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
   </action>
+  <action id=":cursive.testing.actions/rerun-last-test">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
@@ -104,6 +113,8 @@
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="Git.Add" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
@@ -131,6 +142,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift meta 3" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="latex.align_center" />
   <action id="latex.align_left" />
   <action id="latex.align_right" />
