@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'timeflow'" />
+    <option name="FILE_MASK" value="*.clj" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
