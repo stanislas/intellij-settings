@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="logman" type="Bash" />
@@ -28,6 +28,7 @@
       <mapping ext="vd" type="PLAIN_TEXT" />
       <mapping ext="create_extra" type="PLAIN_TEXT" />
       <mapping ext="td" type="PLAIN_TEXT" />
+      <mapping ext="plog" type="PLAIN_TEXT" />
       <mapping ext="lc" type="PLAIN_TEXT" />
       <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
