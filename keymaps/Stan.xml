@@ -1,6 +1,6 @@
 <keymap version="1" name="Stan" parent="Mac OS X 10.5+">
   <action id=":cursive.actions.paredit/backward">
-    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id=":cursive.actions.paredit/barf-backwards">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
@@ -21,7 +21,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id=":cursive.actions.paredit/forward">
-    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id=":cursive.actions.paredit/join">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
@@ -115,6 +115,9 @@
   <action id="Git.Add" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
