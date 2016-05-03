@@ -62,14 +62,17 @@
   <action id=":cursive.actions.paredit/wrap-curly">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
-  <action id=":cursive.actions.paredit/wrap-paren">
-    <keyboard-shortcut first-keystroke="shift meta 9" />
-  </action>
   <action id=":cursive.actions.paredit/wrap-quotes">
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
   <action id=":cursive.actions.paredit/wrap-square">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id=":cursive.repl.actions/jump-to-output">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id=":cursive.repl.actions/jump-to-repl">
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift meta l" />
@@ -98,16 +101,11 @@
   <action id=":cursive.testing.actions/run-single-test">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="ActivateChangesToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta 9" />
-  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
-  <action id="ActivateREPLToolWindow">
-    <keyboard-shortcut first-keystroke="meta 9" />
-  </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
   <action id="BuildArtifact">
     <keyboard-shortcut first-keystroke="meta alt a" />
   </action>
