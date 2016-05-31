@@ -1,0 +1,9 @@
+<code_scheme name="Default (1)">
+  <ClojureCodeStyleSettings>{
+  :ch.deepimpact.tamara.domain.invoice/e-fn 2
+  :cursive.formatting/align-binding-forms true
+}</ClojureCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>
