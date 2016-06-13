@@ -25,6 +25,7 @@
   </option>
   <ClojureCodeStyleSettings>{
   :cursive.formatting/align-binding-forms true
+  :cursive.formatting/imports-use-vectors true
 }</ClojureCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="KEYWORD_CASE" value="1" />
