@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Project 'timeflow'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'timeflow'" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.clj" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
@@ -23,8 +23,8 @@
       <mask>*.fcond</mask>
       <mask>*.gradle</mask>
       <mask>*.wsdl</mask>
-      <mask>*.clj</mask>
       <mask>*.html</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
