@@ -2,6 +2,7 @@
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" value="JSON" />
