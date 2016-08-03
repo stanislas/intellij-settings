@@ -1,17 +1,14 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="Clojure" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="Clojure" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15" value="JSON" />
@@ -20,8 +17,11 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="Clojure" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="Clojure" />
