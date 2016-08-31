@@ -24,6 +24,7 @@
     </value>
   </option>
   <ClojureCodeStyleSettings>{
+  :ch.deepimpact.tamara.app.service-invoice/create-credit-note-pdf 0
   :cursive.formatting/align-binding-forms true
   :cursive.formatting/imports-use-vectors true
 }</ClojureCodeStyleSettings>
