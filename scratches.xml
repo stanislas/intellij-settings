@@ -3,6 +3,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.clj" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" value="JSON" />
@@ -15,7 +16,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.clj" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" value="JSON" />
