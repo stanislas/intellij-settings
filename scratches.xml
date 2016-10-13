@@ -2,10 +2,12 @@
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" value="Clojure" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.groovy" value="Groovy" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.clj" value="Clojure" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.groovy" value="Groovy" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="Clojure" />
