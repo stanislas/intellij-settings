@@ -21,8 +21,10 @@
       <mapping pattern="01-" type="PLAIN_TEXT" />
       <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="envirnoment" type="PLAIN_TEXT" />
       <mapping pattern="args" type="PLAIN_TEXT" />
+      <mapping pattern="n20161021-invoice-blueprints-schema" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
