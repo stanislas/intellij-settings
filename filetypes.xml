@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="docker_push" type="Bash" />
       <mapping pattern="logman" type="Bash" />
+      <mapping pattern="start" type="Bash" />
       <mapping pattern="crsh" type="Bash" />
       <mapping pattern="uninstall" type="Bash" />
       <mapping pattern="generate_config" type="Bash" />
@@ -11,7 +12,6 @@
       <mapping pattern="docker_build" type="Bash" />
       <mapping pattern="datomic_less" type="Bash" />
       <mapping pattern="create-dev-lab-box" type="Bash" />
-      <mapping pattern="start" type="Bash" />
       <mapping pattern="run" type="C#" />
       <mapping ext="build" type="CLJC" />
       <mapping ext="boot" type="Clojure" />
@@ -21,7 +21,6 @@
       <mapping pattern="version-env" type="PLAIN_TEXT" />
       <mapping pattern="customer" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".lein-env" type="PLAIN_TEXT" />
       <mapping pattern="01-" type="PLAIN_TEXT" />
@@ -34,6 +33,7 @@
       <mapping pattern="forge" type="PLAIN_TEXT" />
       <mapping pattern="n20161021-invoice-blueprints-schema" type="PLAIN_TEXT" />
       <mapping pattern="terraform" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="plog" type="PLAIN_TEXT" />
@@ -46,7 +46,6 @@
       <mapping ext="lc" type="PLAIN_TEXT" />
       <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
       <mapping ext="pks" type="SQL" />
       <mapping ext="fnc" type="SQL" />
