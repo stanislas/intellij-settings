@@ -28,6 +28,7 @@
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="V00007__create_identification_table" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="V00004__create_date_of_birth_table" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="envirnoment" type="PLAIN_TEXT" />
