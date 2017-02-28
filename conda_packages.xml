@@ -134,7 +134,7 @@
         <entry key="decorator" value="4.0.11" />
         <entry key="dill" value="0.2.5" />
         <entry key="distribute" value="0.6.45" />
-        <entry key="distributed" value="1.15.2" />
+        <entry key="distributed" value="1.16.0" />
         <entry key="django" value="1.10.5" />
         <entry key="dnspython" value="1.14.0" />
         <entry key="docopt" value="0.6.2" />
@@ -581,6 +581,7 @@
         <entry key="toolz" value="0.8.2" />
         <entry key="tornado" value="4.4.2" />
         <entry key="toro" value="1.0.1" />
+        <entry key="tqdm" value="4.11.2" />
         <entry key="traitlets" value="4.3.2" />
         <entry key="traits" value="4.6.0" />
         <entry key="traitsui" value="5.1.0" />
@@ -2395,6 +2396,7 @@
               <option value="1.9.4" />
               <option value="1.10.2" />
               <option value="1.15.2" />
+              <option value="1.16.0" />
             </list>
           </value>
         </entry>
@@ -7073,6 +7075,13 @@
             </list>
           </value>
         </entry>
+        <entry key="tqdm">
+          <value>
+            <list>
+              <option value="4.11.2" />
+            </list>
+          </value>
+        </entry>
         <entry key="traitlets">
           <value>
             <list>
@@ -7656,6 +7665,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1488184431292" />
+    <option name="LAST_TIME_CHECKED" value="1488271605824" />
   </component>
 </application>
