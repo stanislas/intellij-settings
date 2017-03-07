@@ -8,7 +8,7 @@
         <entry key="accelerate" value="2.3.1" />
         <entry key="accelerate_cudalib" value="2.0" />
         <entry key="affine" value="2.0.0" />
-        <entry key="alabaster" value="0.7.9" />
+        <entry key="alabaster" value="0.7.10" />
         <entry key="alpaca_static" value="1.5.22" />
         <entry key="anaconda" value="4.3.0" />
         <entry key="anaconda-build" value="1.15.0" />
@@ -60,7 +60,7 @@
         <entry key="bootstrap_static" value="3.3.1" />
         <entry key="boto" value="2.45.0" />
         <entry key="boto3" value="1.4.3" />
-        <entry key="botocore" value="1.4.90" />
+        <entry key="botocore" value="1.5.19" />
         <entry key="bottlechest" value="0.7.1" />
         <entry key="bottleneck" value="1.2.0" />
         <entry key="bsddb" value="1.0" />
@@ -94,7 +94,7 @@
         <entry key="colander" value="1.2" />
         <entry key="colorama" value="0.3.7" />
         <entry key="colorcet" value="0.9.1" />
-        <entry key="conda" value="4.3.13" />
+        <entry key="conda" value="4.3.14" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="2.1.5" />
         <entry key="conda-env" value="2.6.0" />
@@ -110,7 +110,7 @@
         <entry key="continuum-docs" value="2.0.4" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
-        <entry key="coverage" value="4.2" />
+        <entry key="coverage" value="4.3.4" />
         <entry key="cryptacular" value="1.4.1" />
         <entry key="cryptography" value="1.7.1" />
         <entry key="cssselect" value="1.0.0" />
@@ -124,7 +124,7 @@
         <entry key="cymem" value="1.31.2" />
         <entry key="cython" value="0.25.2" />
         <entry key="cytoolz" value="0.8.2" />
-        <entry key="dask" value="0.13.0" />
+        <entry key="dask" value="0.14.0" />
         <entry key="datashader" value="0.4.0" />
         <entry key="datashape" value="0.5.4" />
         <entry key="dateutil" value="2.4.1" />
@@ -423,7 +423,7 @@
         <entry key="proj4" value="4.9.2" />
         <entry key="prompt_toolkit" value="1.0.9" />
         <entry key="protobuf" value="2.6.1" />
-        <entry key="psutil" value="5.1.3" />
+        <entry key="psutil" value="5.2.0" />
         <entry key="psycopg2" value="2.6.2" />
         <entry key="ptyprocess" value="0.5.1" />
         <entry key="py" value="1.4.32" />
@@ -468,9 +468,10 @@
         <entry key="pyserial" value="2.7" />
         <entry key="pyside" value="1.1.2" />
         <entry key="pysnmp" value="4.3.2" />
+        <entry key="pysocks" value="1.6.6" />
         <entry key="pystan" value="2.14.0.0" />
         <entry key="pytables" value="3.3.0" />
-        <entry key="pytest" value="3.0.5" />
+        <entry key="pytest" value="3.0.6" />
         <entry key="pytest-cache" value="1.0" />
         <entry key="pytest-cov" value="2.3.1" />
         <entry key="pytest-pep8" value="1.0.6" />
@@ -554,7 +555,7 @@
         <entry key="sputnik" value="0.9.3" />
         <entry key="spyder" value="3.1.3" />
         <entry key="spyder-app" value="2.3.8" />
-        <entry key="sqlalchemy" value="1.1.5" />
+        <entry key="sqlalchemy" value="1.1.6" />
         <entry key="sqlite" value="3.13.0" />
         <entry key="sqlparse" value="0.1.19" />
         <entry key="ssh" value="1.8.0" />
@@ -731,6 +732,7 @@
               <option value="0.7.8" />
               <option value="0.7.7" />
               <option value="0.7.6" />
+              <option value="0.7.10" />
             </list>
           </value>
         </entry>
@@ -1395,6 +1397,7 @@
               <option value="1.4.17" />
               <option value="1.4.74" />
               <option value="1.4.37" />
+              <option value="1.5.19" />
             </list>
           </value>
         </entry>
@@ -1836,6 +1839,7 @@
               <option value="1.6.0" />
               <option value="4.1.8" />
               <option value="4.3.13" />
+              <option value="4.3.14" />
             </list>
           </value>
         </entry>
@@ -2077,6 +2081,7 @@
               <option value="4.0" />
               <option value="4.2" />
               <option value="4.0.3" />
+              <option value="4.3.4" />
             </list>
           </value>
         </entry>
@@ -2273,6 +2278,7 @@
               <option value="0.13.0" />
               <option value="0.7.3" />
               <option value="0.7.0" />
+              <option value="0.14.0" />
             </list>
           </value>
         </entry>
@@ -5359,6 +5365,7 @@
               <option value="0.7.1" />
               <option value="4.4.2" />
               <option value="1.1.2" />
+              <option value="5.2.0" />
             </list>
           </value>
         </entry>
@@ -5774,6 +5781,13 @@
             </list>
           </value>
         </entry>
+        <entry key="pysocks">
+          <value>
+            <list>
+              <option value="1.6.6" />
+            </list>
+          </value>
+        </entry>
         <entry key="pystan">
           <value>
             <list>
@@ -5825,6 +5839,7 @@
               <option value="2.8.1" />
               <option value="2.9.2" />
               <option value="2.3.5" />
+              <option value="3.0.6" />
             </list>
           </value>
         </entry>
@@ -6823,6 +6838,7 @@
               <option value="1.1.1" />
               <option value="1.0.11" />
               <option value="1.1.4" />
+              <option value="1.1.6" />
             </list>
           </value>
         </entry>
@@ -7673,6 +7689,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1488378111157" />
+    <option name="LAST_TIME_CHECKED" value="1488876406908" />
   </component>
 </application>
