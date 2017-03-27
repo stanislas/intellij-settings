@@ -1,0 +1,36 @@
+<code_scheme name="Spectra">
+  <option name="RIGHT_MARGIN" value="140" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <ClojureCodeStyleSettings>{
+  :ch.deepimpact.bellboy.stages.executor/defstage :only-indent
+  :ch.deepimpact.black.infra.metrics/defn-metered :only-indent
+  :ch.deepimpact.black.support.handler/defhandler :only-indent
+  :clojure.core/defmulti 1
+  :clojure.core/defonce 1
+  :clojure.core/into :only-indent
+  :clojure.core/let :only-indent
+  :clojure.core.match/match :only-indent
+  :compojure.core/defroutes :only-indent
+  :cursive.formatting/align-binding-forms true
+}</ClojureCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="WRAP_COMMENTS" value="true" />
+  </codeStyleSettings>
+</code_scheme>
