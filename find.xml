@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'timeflow'" />
-    <option name="defaultScopeName" value="Project 'timeflow'" />
-    <option name="SEARCH_SCOPE" value="Project 'timeflow'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
