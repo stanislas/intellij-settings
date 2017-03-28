@@ -4,15 +4,15 @@
     <variable name="SUBJECT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TAGS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY" value="false" />
-      <option name="SQL" value="false" />
       <option name="CSS" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="MAVEN" value="false" />
-      <option name="JSON" value="false" />
-      <option name="XML" value="false" />
-      <option name="JAVA_CODE" value="false" />
+      <option name="GROOVY" value="false" />
       <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="XML" value="false" />
     </context>
   </template>
   <template name="link" value="{:url $URL$&#10; :title $TITLE$&#10; :description $DESCRIPTION$&#10; :tags [$TAGS$]}" description="new Plog Link" toReformat="false" toShortenFQNames="true">
