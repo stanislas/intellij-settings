@@ -2,7 +2,6 @@
   <option name="RIGHT_MARGIN" value="140" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <ClojureCodeStyleSettings>{
-  :ch.deepimpact.bellboy.stages.executor/defstage :only-indent
   :ch.deepimpact.black.infra.metrics/defn-metered :only-indent
   :ch.deepimpact.black.support.handler/defhandler :only-indent
   :clojure.core/defmulti 1
