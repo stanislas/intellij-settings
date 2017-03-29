@@ -32,6 +32,7 @@
       <mapping pattern="01-" type="PLAIN_TEXT" />
       <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="terraform" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
