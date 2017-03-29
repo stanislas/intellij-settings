@@ -15,7 +15,6 @@
       <mapping pattern="run" type="C#" />
       <mapping ext="build" type="CLJC" />
       <mapping ext="boot" type="Clojure" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="forge" type="PLAIN_TEXT" />
       <mapping pattern="version-env" type="PLAIN_TEXT" />
@@ -49,10 +48,10 @@
       <mapping ext="create_extra" type="PLAIN_TEXT" />
       <mapping ext="plog" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
+      <mapping ext="pks" type="SQL" />
       <mapping ext="prc" type="SQL" />
       <mapping ext="view" type="SQL" />
       <mapping ext="fnc" type="SQL" />
-      <mapping ext="pks" type="SQL" />
       <mapping ext="type" type="SQL" />
       <mapping ext="pkb" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
