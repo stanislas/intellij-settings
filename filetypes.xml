@@ -47,6 +47,7 @@
       <mapping ext="clt" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
       <mapping ext="markdown" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="lc" type="PLAIN_TEXT" />
