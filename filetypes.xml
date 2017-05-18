@@ -2,64 +2,65 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="docker_push" type="Bash" />
       <mapping pattern="logman" type="Bash" />
-      <mapping pattern="crsh" type="Bash" />
-      <mapping pattern="uninstall" type="Bash" />
-      <mapping pattern="generate_config" type="Bash" />
-      <mapping pattern="install-datomic" type="Bash" />
-      <mapping pattern="docker_build" type="Bash" />
-      <mapping pattern="datomic_less" type="Bash" />
-      <mapping pattern="create-dev-lab-box" type="Bash" />
+      <mapping pattern="docker_push" type="Bash" />
       <mapping pattern="start" type="Bash" />
+      <mapping pattern="crsh" type="Bash" />
+      <mapping pattern="docker_build" type="Bash" />
+      <mapping pattern="create-dev-lab-box" type="Bash" />
+      <mapping pattern="install-datomic" type="Bash" />
+      <mapping pattern="generate_config" type="Bash" />
+      <mapping pattern="datomic_less" type="Bash" />
+      <mapping pattern="uninstall" type="Bash" />
       <mapping pattern="run" type="C#" />
       <mapping ext="build" type="CLJC" />
       <mapping ext="boot" type="Clojure" />
-      <mapping pattern="hello" type="PLAIN_TEXT" />
-      <mapping pattern="gitignore" type="PLAIN_TEXT" />
-      <mapping pattern="version-env" type="PLAIN_TEXT" />
-      <mapping pattern="customer" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="forge" type="PLAIN_TEXT" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
+      <mapping pattern="version-env" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="customer" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".lein-env" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="01-" type="PLAIN_TEXT" />
-      <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="args" type="PLAIN_TEXT" />
+      <mapping pattern="n20161021-invoice-blueprints-schema" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="envirnoment" type="PLAIN_TEXT" />
-      <mapping pattern="args" type="PLAIN_TEXT" />
-      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
-      <mapping pattern="forge" type="PLAIN_TEXT" />
-      <mapping pattern="n20161021-invoice-blueprints-schema" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="01-" type="PLAIN_TEXT" />
+      <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="terraform" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="vd" type="PLAIN_TEXT" />
-      <mapping ext="create_extra" type="PLAIN_TEXT" />
-      <mapping ext="clt" type="PLAIN_TEXT" />
-      <mapping ext="td" type="PLAIN_TEXT" />
-      <mapping ext="plog" type="PLAIN_TEXT" />
-      <mapping ext="lc" type="PLAIN_TEXT" />
-      <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="vd" type="PLAIN_TEXT" />
+      <mapping ext="td" type="PLAIN_TEXT" />
+      <mapping ext="clt" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
+      <mapping ext="markdown" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="lc" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="create_extra" type="PLAIN_TEXT" />
+      <mapping ext="plog" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
       <mapping ext="pks" type="SQL" />
-      <mapping ext="fnc" type="SQL" />
-      <mapping ext="pkb" type="SQL" />
-      <mapping ext="type" type="SQL" />
       <mapping ext="prc" type="SQL" />
       <mapping ext="view" type="SQL" />
+      <mapping ext="fnc" type="SQL" />
+      <mapping ext="type" type="SQL" />
+      <mapping ext="pkb" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
