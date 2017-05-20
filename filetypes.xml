@@ -18,11 +18,11 @@
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="version-env" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="customer" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".lein-env" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="01-" type="PLAIN_TEXT" />
       <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -33,6 +33,8 @@
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="forge" type="PLAIN_TEXT" />
       <mapping pattern="n20161021-invoice-blueprints-schema" type="PLAIN_TEXT" />
+      <mapping pattern="key-0001" type="PLAIN_TEXT" />
+      <mapping pattern="priv-0001" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="terraform" type="PLAIN_TEXT" />
@@ -51,15 +53,15 @@
       <mapping ext="plog" type="PLAIN_TEXT" />
       <mapping ext="lc" type="PLAIN_TEXT" />
       <mapping ext="markdown" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
       <mapping ext="pks" type="SQL" />
       <mapping ext="fnc" type="SQL" />
       <mapping ext="pkb" type="SQL" />
+      <mapping ext="view" type="SQL" />
       <mapping ext="type" type="SQL" />
       <mapping ext="prc" type="SQL" />
-      <mapping ext="view" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
