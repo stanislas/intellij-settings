@@ -144,6 +144,9 @@
     <keyboard-shortcut first-keystroke="shift meta 3" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="WindowMenu">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="latex.align_center" />
   <action id="latex.align_left" />
   <action id="latex.align_right" />
