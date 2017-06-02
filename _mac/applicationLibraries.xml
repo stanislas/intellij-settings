@@ -1,25 +1,30 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.5.2 (~/anaconda3/envs/anaconda/bin/python) interpreter library">
+    <library name="p5" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_p5.js_0.3.2_p5.min.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_p5.js_0.5.11_p5.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5" />
-        <root url="file://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5/lib-dynload" />
-        <root url="file://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5/site-packages" />
-        <root url="jar://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg!/" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/2116720145" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_p5.js_0.3.2_p5.min.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_p5.js_0.5.11_p5.js" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5" />
-        <root url="file://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5/lib-dynload" />
-        <root url="file://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5/site-packages" />
-        <root url="jar://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg!/" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/2116720145" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
+      <SOURCES />
+    </library>
+    <library name="p5.dom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_p5.js_0.5.11_addons_p5.dom.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_p5.js_0.5.11_addons_p5.dom.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </application>
