@@ -63,6 +63,7 @@
       <mapping ext="fnc" type="SQL" />
       <mapping ext="type" type="SQL" />
       <mapping ext="pkb" type="SQL" />
+      <mapping ext="jmx" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
