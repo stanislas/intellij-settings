@@ -27,6 +27,7 @@
   :ch.deepimpact.tamara.app.service-invoice/create-credit-note-pdf 0
   :cursive.formatting/align-binding-forms true
   :cursive.formatting/imports-use-vectors true
+  :leda.auth-test/with-ip-whitelist :only-indent
 }</ClojureCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="KEYWORD_CASE" value="1" />
