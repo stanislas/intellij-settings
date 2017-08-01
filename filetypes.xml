@@ -18,11 +18,11 @@
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="version-env" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="customer" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".lein-env" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="01-" type="PLAIN_TEXT" />
       <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -43,6 +43,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="hcl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
