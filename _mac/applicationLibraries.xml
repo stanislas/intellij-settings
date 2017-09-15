@@ -13,11 +13,6 @@
       <SOURCES />
     </library>
     <library name="Chart.bundle" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Chart.js_2.7.0_Chart.bundle.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_Chart.js_2.7.0_Chart.bundle.js" />
       </CLASSES>
@@ -56,11 +51,6 @@
       <SOURCES />
     </library>
     <library name="platform" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_platform.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_platform.js" />
       </CLASSES>
