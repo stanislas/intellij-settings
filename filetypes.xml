@@ -15,6 +15,7 @@
       <mapping pattern="run" type="C#" />
       <mapping ext="build" type="CLJC" />
       <mapping ext="boot" type="Clojure" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern="key-0001" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="forge" type="PLAIN_TEXT" />
@@ -55,6 +56,7 @@
       <mapping ext="hcl" type="PLAIN_TEXT" />
       <mapping ext="td" type="PLAIN_TEXT" />
       <mapping ext="lc" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="create_extra" type="PLAIN_TEXT" />
       <mapping ext="plog" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
