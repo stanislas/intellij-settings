@@ -15,7 +15,6 @@
       <mapping pattern="run" type="C#" />
       <mapping ext="build" type="CLJC" />
       <mapping ext="boot" type="Clojure" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern="key-0001" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="forge" type="PLAIN_TEXT" />
@@ -33,6 +32,7 @@
       <mapping pattern="ZKB Poc Infrastructure Draft" type="PLAIN_TEXT" />
       <mapping pattern="priv-0001" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="envirnoment" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="01-" type="PLAIN_TEXT" />
@@ -41,31 +41,31 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="terraform" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="logger" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="vd" type="PLAIN_TEXT" />
-      <mapping ext="clt" type="PLAIN_TEXT" />
-      <mapping ext="rd" type="PLAIN_TEXT" />
-      <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="hcl" type="PLAIN_TEXT" />
-      <mapping ext="td" type="PLAIN_TEXT" />
-      <mapping ext="lc" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="logger" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="vd" type="PLAIN_TEXT" />
       <mapping ext="create_extra" type="PLAIN_TEXT" />
+      <mapping ext="clt" type="PLAIN_TEXT" />
+      <mapping ext="td" type="PLAIN_TEXT" />
       <mapping ext="plog" type="PLAIN_TEXT" />
+      <mapping ext="lc" type="PLAIN_TEXT" />
+      <mapping ext="markdown" type="PLAIN_TEXT" />
+      <mapping ext="rd" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
-      <mapping ext="prc" type="SQL" />
-      <mapping ext="view" type="SQL" />
-      <mapping ext="fnc" type="SQL" />
       <mapping ext="pks" type="SQL" />
-      <mapping ext="type" type="SQL" />
+      <mapping ext="fnc" type="SQL" />
       <mapping ext="pkb" type="SQL" />
+      <mapping ext="view" type="SQL" />
+      <mapping ext="type" type="SQL" />
+      <mapping ext="prc" type="SQL" />
       <mapping ext="jmx" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
