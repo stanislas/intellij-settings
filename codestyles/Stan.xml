@@ -29,6 +29,7 @@
   :cursive.formatting/imports-use-vectors true
   :leda.auth-test/with-ip-whitelist :only-indent
   :rhea.aws.ecs/with-cluster-name 2
+  :smbh.messier.db.imported-list/insert-imported-list 1
 }</ClojureCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="KEYWORD_CASE" value="1" />
