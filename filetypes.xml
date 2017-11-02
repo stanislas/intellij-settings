@@ -19,6 +19,7 @@
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="forge" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
+      <mapping pattern="cron_certbot" type="PLAIN_TEXT" />
       <mapping pattern="version-env" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="customer" type="PLAIN_TEXT" />
