@@ -28,6 +28,7 @@
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="args" type="PLAIN_TEXT" />
       <mapping pattern="n20161021-invoice-blueprints-schema" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="ZKB Poc Infrastructure Draft" type="PLAIN_TEXT" />
