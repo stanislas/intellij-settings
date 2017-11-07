@@ -1,0 +1,5 @@
+<application>
+  <component name="ReplCommandManager">
+    <repl-command name="last-command" executionType="LAST" commandText="" executeBefore="LOAD_CURRENT" executionNs="ORIGINAL_NS" inNamespace="" />
+  </component>
+</application>
