@@ -19,7 +19,6 @@
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="forge" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
-      <mapping pattern="cron_certbot" type="PLAIN_TEXT" />
       <mapping pattern="version-env" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="customer" type="PLAIN_TEXT" />
@@ -32,6 +31,7 @@
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="ZKB Poc Infrastructure Draft" type="PLAIN_TEXT" />
+      <mapping pattern="cron_certbot" type="PLAIN_TEXT" />
       <mapping pattern="priv-0001" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
@@ -56,6 +56,7 @@
       <mapping ext="clt" type="PLAIN_TEXT" />
       <mapping ext="td" type="PLAIN_TEXT" />
       <mapping ext="plog" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="lc" type="PLAIN_TEXT" />
       <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
