@@ -20,14 +20,8 @@
       <mask>*.fcond</mask>
       <mask>*.gradle</mask>
       <mask>*.wsdl</mask>
-      <mask>*.clj</mask>
-      <mask>*.cl</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.ht</mask>
-      <mask>*.htl</mask>
-      <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
