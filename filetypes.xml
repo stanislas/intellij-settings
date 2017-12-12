@@ -43,31 +43,29 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="terraform" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="hcl" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="vd" type="PLAIN_TEXT" />
-      <mapping ext="create_extra" type="PLAIN_TEXT" />
-      <mapping ext="clt" type="PLAIN_TEXT" />
-      <mapping ext="td" type="PLAIN_TEXT" />
-      <mapping ext="plog" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="lc" type="PLAIN_TEXT" />
-      <mapping ext="markdown" type="PLAIN_TEXT" />
-      <mapping ext="rd" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="vd" type="PLAIN_TEXT" />
+      <mapping ext="clt" type="PLAIN_TEXT" />
+      <mapping ext="rd" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="hcl" type="PLAIN_TEXT" />
+      <mapping ext="td" type="PLAIN_TEXT" />
+      <mapping ext="lc" type="PLAIN_TEXT" />
+      <mapping ext="create_extra" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="plog" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
-      <mapping ext="pks" type="SQL" />
-      <mapping ext="fnc" type="SQL" />
-      <mapping ext="pkb" type="SQL" />
-      <mapping ext="view" type="SQL" />
-      <mapping ext="type" type="SQL" />
       <mapping ext="prc" type="SQL" />
+      <mapping ext="view" type="SQL" />
+      <mapping ext="fnc" type="SQL" />
+      <mapping ext="pks" type="SQL" />
+      <mapping ext="type" type="SQL" />
+      <mapping ext="pkb" type="SQL" />
       <mapping ext="jmx" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
