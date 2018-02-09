@@ -137,6 +137,41 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.6 (pipeline) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.6" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/certifi-2017.7.27.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.3/python_stubs/-985196163" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.6" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/certifi-2017.7.27.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.3/python_stubs/-985196163" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6.1 (~/anaconda/bin/python3.6) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/anaconda3/envs/anaconda/lib/python3.5" />
