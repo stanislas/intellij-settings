@@ -110,12 +110,16 @@
     <keyboard-shortcut first-keystroke="meta alt a" />
   </action>
   <action id="ChangesView.AddUnversioned" />
+  <action id="Cursive.Repl.Command.compile-test">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="Cursive.Repl.Command.last-command">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="Git.Add" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="JumpToLastWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
