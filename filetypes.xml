@@ -33,6 +33,7 @@
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="ZKB Poc Infrastructure Draft" type="PLAIN_TEXT" />
       <mapping pattern="cron_certbot" type="PLAIN_TEXT" />
+      <mapping pattern="pipeline2" type="PLAIN_TEXT" />
       <mapping pattern="priv-0001" type="PLAIN_TEXT" />
       <mapping pattern="DevInstallation" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
