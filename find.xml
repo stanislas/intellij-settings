@@ -24,8 +24,8 @@
       <mask>*.wsdl</mask>
       <mask>*.html</mask>
       <mask>*.scss</mask>
-      <mask>*.clj</mask>
       <mask>*</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
