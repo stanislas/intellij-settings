@@ -1,31 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.properties</mask>
-      <mask>MANIFEST.MF</mask>
-      <mask>*.create</mask>
-      <mask>*.vd</mask>
-      <mask>*.xml</mask>
-      <mask>*.view</mask>
-      <mask>*.java</mask>
-      <mask>*.td</mask>
-      <mask>*.fcond</mask>
-      <mask>*.gradle</mask>
-      <mask>*.wsdl</mask>
-      <mask>*.html</mask>
-      <mask>*.scss</mask>
-      <mask>*</mask>
-      <mask>*.clj</mask>
-    </recentFileMasks>
   </component>
 </application>
