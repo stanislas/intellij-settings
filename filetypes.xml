@@ -4,10 +4,10 @@
     <extensionMap>
       <mapping pattern="logman" type="Bash" />
       <mapping pattern="docker_push" type="Bash" />
-      <mapping pattern="start" type="Bash" />
       <mapping pattern="crsh" type="Bash" />
       <mapping pattern="docker_build" type="Bash" />
       <mapping pattern="create-dev-lab-box" type="Bash" />
+      <mapping pattern="start" type="Bash" />
       <mapping pattern="install-datomic" type="Bash" />
       <mapping pattern="generate_config" type="Bash" />
       <mapping pattern="datomic_less" type="Bash" />
@@ -15,6 +15,7 @@
       <mapping pattern="run" type="C#" />
       <mapping ext="build" type="CLJC" />
       <mapping ext="boot" type="Clojure" />
+      <mapping pattern="priv1" type="PLAIN_TEXT" />
       <mapping pattern="key-0001" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="forge" type="PLAIN_TEXT" />
@@ -64,10 +65,10 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="plog" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="Properties" />
+      <mapping ext="pks" type="SQL" />
       <mapping ext="prc" type="SQL" />
       <mapping ext="view" type="SQL" />
       <mapping ext="fnc" type="SQL" />
-      <mapping ext="pks" type="SQL" />
       <mapping ext="type" type="SQL" />
       <mapping ext="pkb" type="SQL" />
       <mapping ext="jmx" type="XML" />
