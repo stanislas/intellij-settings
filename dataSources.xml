@@ -1,18 +1,16 @@
 <application>
-  <component name="dataSourceStorage" format="xml">
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="sys@devdays" uuid="4070e003-b257-4f9e-8379-d2d7e99994b9">
       <driver-ref>oracle</driver-ref>
       <auto-commit>false</auto-commit>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@//192.168.56.2:1521/orcl</jdbc-url>
-      <libraries />
     </data-source>
     <data-source source="LOCAL" name="sys@devdays (pdb)" uuid="2d83aa2b-ecfb-4d4a-9056-cd024876a8ee">
       <driver-ref>oracle</driver-ref>
       <auto-commit>false</auto-commit>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@//192.168.56.2:1521/pdb1</jdbc-url>
-      <libraries />
     </data-source>
   </component>
 </application>
