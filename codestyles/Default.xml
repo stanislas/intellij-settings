@@ -1,1 +1,6 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <ClojureCodeStyleSettings>{
+  :cursive.formatting/imports-use-vectors true
+  :cursive.formatting/one-space-lists true
+}</ClojureCodeStyleSettings>
+</code_scheme>
