@@ -22,6 +22,7 @@
   :ch.deepimpact.tamara.app.service-invoice/create-credit-note-pdf 0
   :cursive.formatting/align-binding-forms true
   :cursive.formatting/imports-use-vectors true
+  :cursive.formatting/one-space-lists true
   :leda.auth-test/with-ip-whitelist :only-indent
   :rhea.aws.ecs/with-cluster-name 2
   :smbh.messier.db.imported-list/insert-imported-list 1
