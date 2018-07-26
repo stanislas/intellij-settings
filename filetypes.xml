@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="lvri-deploy" type="Bash" />
       <mapping pattern="logman" type="Bash" />
       <mapping pattern="docker_push" type="Bash" />
       <mapping pattern="start" type="Bash" />
