@@ -15,8 +15,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.md</mask>
-    <mask>*.sql</mask>
     <mask>*.clj</mask>
     <mask>*.cljs</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
