@@ -20,5 +20,6 @@
     <mask>*.less</mask>
     <mask>*.sql</mask>
     <mask>*.cljs</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
