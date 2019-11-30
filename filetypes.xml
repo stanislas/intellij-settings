@@ -9,13 +9,14 @@
       <mapping pattern="crsh" type="Bash" />
       <mapping pattern="docker_build" type="Bash" />
       <mapping pattern="generate_config" type="Bash" />
-      <mapping pattern="install-datomic" type="Bash" />
       <mapping pattern="create-dev-lab-box" type="Bash" />
+      <mapping pattern="install-datomic" type="Bash" />
       <mapping pattern="datomic_less" type="Bash" />
       <mapping pattern="uninstall" type="Bash" />
       <mapping pattern="run" type="C#" />
+      <mapping ext="build" type="CLJC" />
+      <mapping ext="boot" type="Clojure" />
       <mapping pattern="priv1" type="PLAIN_TEXT" />
-      <mapping pattern="vars" type="PLAIN_TEXT" />
       <mapping pattern="key-0001" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="forge" type="PLAIN_TEXT" />
@@ -28,7 +29,6 @@
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".lein-env" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="v0001_021__tx_table" type="PLAIN_TEXT" />
@@ -44,13 +44,15 @@
       <mapping pattern="priv-0001" type="PLAIN_TEXT" />
       <mapping pattern="DevInstallation" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="envirnoment" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="01-" type="PLAIN_TEXT" />
-      <mapping pattern="staging" type="PLAIN_TEXT" />
+      <mapping pattern="vars" type="PLAIN_TEXT" />
       <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
@@ -80,8 +82,6 @@
       <mapping ext="type" type="SQL" />
       <mapping ext="prc" type="SQL" />
       <mapping ext="jmx" type="XML" />
-      <mapping ext="boot" type="Clojure" />
-      <mapping ext="build" type="CLJC" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
