@@ -8,9 +8,9 @@
       <mapping pattern="start" type="Bash" />
       <mapping pattern="crsh" type="Bash" />
       <mapping pattern="docker_build" type="Bash" />
-      <mapping pattern="generate_config" type="Bash" />
-      <mapping pattern="install-datomic" type="Bash" />
       <mapping pattern="create-dev-lab-box" type="Bash" />
+      <mapping pattern="install-datomic" type="Bash" />
+      <mapping pattern="generate_config" type="Bash" />
       <mapping pattern="datomic_less" type="Bash" />
       <mapping pattern="uninstall" type="Bash" />
       <mapping pattern="run" type="C#" />
@@ -30,7 +30,6 @@
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".lein-env" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="v0001_021__tx_table" type="PLAIN_TEXT" />
@@ -48,6 +47,7 @@
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="envirnoment" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
