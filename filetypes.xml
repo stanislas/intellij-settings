@@ -17,7 +17,6 @@
       <mapping ext="build" type="CLJC" />
       <mapping ext="boot" type="Clojure" />
       <mapping pattern="priv1" type="PLAIN_TEXT" />
-      <mapping pattern="vars" type="PLAIN_TEXT" />
       <mapping pattern="key-0001" type="PLAIN_TEXT" />
       <mapping pattern="args2" type="PLAIN_TEXT" />
       <mapping pattern="forge" type="PLAIN_TEXT" />
@@ -45,6 +44,7 @@
       <mapping pattern="priv-0001" type="PLAIN_TEXT" />
       <mapping pattern="DevInstallation" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
@@ -52,7 +52,7 @@
       <mapping pattern="envirnoment" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="01-" type="PLAIN_TEXT" />
-      <mapping pattern="staging" type="PLAIN_TEXT" />
+      <mapping pattern="vars" type="PLAIN_TEXT" />
       <mapping pattern="timeflow-redeploy" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
